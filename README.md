@@ -8,4 +8,4 @@ Kullanılan corpus Korona-mini hakkında daha fazla için lütfen [kendi reposun
 
 This work is supported by Google Developer Experts Program.
 
-Part of Duygu 2023 Fall-Winter collection, "Turkish NLP with Duygu"/ "Duygu'yla Türkçe NLP". All rights reserved.
+Part of Duygu 2022 Fall-Winter collection, "Turkish NLP with Duygu"/ "Duygu'yla Türkçe NLP". All rights reserved.
